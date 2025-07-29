@@ -9,5 +9,3 @@ A Tool for Detecting Anti-patterns in Microservice Systems **(DAMP)**
 This dataset provides the **ground truth** used to evaluate the effectiveness of **DAMP** (Detecting Anti-patterns in Microservice Practices), a **rule-based detection approach** for identifying 15 common anti-patterns in microservice systems.
 
 The dataset includes **25 microservice-based systems** that have been **manually inspected** by a team of **six experts**. Each system is annotated with the **types and quantities of anti-patterns** present, based on a set of **predefined detection rules**.
-
-This **curated dataset** enables **reproducible evaluation** and **benchmarking** of anti-pattern detection methods in the microservice architecture domain.
