@@ -1,6 +1,6 @@
 # Ground Truth Dataset for Evaluating DAMP
 
-A Tool for Detecting Anti-patterns in Microservice Systems **(DAMP)**
+A Tool for Detecting Anti-patterns in Microservice Systems 
 
 
 
